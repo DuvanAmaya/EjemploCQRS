@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Repositories/IRoleRepository.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Handlers/Commands/GuardarRoleCommandHandler.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Queries/IGetRoleQuery.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Usecases/BuscarRolQueryHandler.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Commands/IEditarRolCommand.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Commands/IGuardarRoleCommand.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Main.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Handlers/Commands/EliminarRolCommandHandler.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Usecases/BuscarRolquery.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Usecases/GuardarRolCommand.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Usecases/GuardarRolCommandHandler.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Handlers/Commands/EditarRolCommandHandler.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Usecases/EliminarRolCommand.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Infrastructure/Repositories/RoleRepository.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Gui/User/RolCrudWindow.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Commands/IEliminarRolCommand.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Handlers/Queries/GetRoleQueryHandler.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Gui/MainWindow.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/EjemploProaulaPoo/EjemploProaulaPoo/src/co/edu/unicolombo/poo/Domain/Business/Interfaces/Queries/IBuscarRolQuery.java</file>
+        </group>
+    </open-files>
+</project-private>
